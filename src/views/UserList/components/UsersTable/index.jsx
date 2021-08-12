@@ -186,7 +186,7 @@ class UsersTable extends Component {
                             color={'success'}
                             size="sm"
                           />
-                          Aktif
+                          Tersedia
                         </div>
                       </TableCell>
                     </TableRow>

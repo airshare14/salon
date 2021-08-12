@@ -120,7 +120,7 @@ class ProductList extends Component {
           {/* <ProductsToolbar /> */}
           <Toolbar
             placeholder="Cari Pelanggan"
-            buttonAdd={"Tambah Pelanggan"}
+            buttonAdd={"Tambah"}
             selectedUsers={[]}
             onChange={null}
             onClick={() => history.push({ pathname: '/orders/report' })}
